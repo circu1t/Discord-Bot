@@ -1,2 +1,2 @@
 # Discord-Bot
-This repository if for a discord bot in the making
+This repository is for a discord bot in the making
